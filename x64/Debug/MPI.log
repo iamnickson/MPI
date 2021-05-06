@@ -1,0 +1,5 @@
+﻿  MPI.cpp
+MPI.obj : error LNK2019: unresolved external symbol MPI_Comm_rank referenced in function main
+MPI.obj : error LNK2019: unresolved external symbol MPI_Init referenced in function main
+MPI.obj : error LNK2019: unresolved external symbol MPI_Finalize referenced in function main
+C:\Users\A Nickson Joram\source\repos\MPI\x64\Debug\MPI.exe : fatal error LNK1120: 3 unresolved externals

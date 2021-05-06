@@ -1,0 +1,2 @@
+C:\Users\A Nickson Joram\source\repos\MPI\Debug\MPI.exe
+C:\Users\A Nickson Joram\source\repos\MPI\Debug\MPI.pdb
