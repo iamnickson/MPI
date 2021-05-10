@@ -1,2 +1,8 @@
-﻿  HelloWorld.cpp
+﻿  NQueen.cpp
+C:\Users\A Nickson Joram\source\repos\MPI\NQueen.cpp(107,30): warning C4244: 'argument': conversion from 'ull' to 'size_t', possible loss of data
+C:\Users\A Nickson Joram\source\repos\MPI\NQueen.cpp(108,30): warning C4244: 'argument': conversion from 'ull' to 'size_t', possible loss of data
+C:\Users\A Nickson Joram\source\repos\MPI\NQueen.cpp(117,21): warning C4244: '=': conversion from 'ull' to 'int', possible loss of data
+C:\Users\A Nickson Joram\source\repos\MPI\NQueen.cpp(121,16): warning C4244: '=': conversion from 'ull' to 'int', possible loss of data
+C:\Users\A Nickson Joram\source\repos\MPI\NQueen.cpp(137,20): warning C4244: 'initializing': conversion from 'ull' to 'int', possible loss of data
+C:\Users\A Nickson Joram\source\repos\MPI\NQueen.cpp(146,20): warning C4244: 'initializing': conversion from 'ull' to 'int', possible loss of data
   MPI.vcxproj -> C:\Users\A Nickson Joram\source\repos\MPI\Debug\MPI.exe
